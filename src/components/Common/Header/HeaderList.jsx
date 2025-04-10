@@ -6,7 +6,7 @@ const HeaderList = ({animateCursor, handleCursorEnter, handleCursorLeave, header
             ['ABOUT', 'PROJECT', 'CONTACT', 'BLOG'].map((text, index) => (
                 <li key={index}>
                     {index === 3 ? (
-                        <a href='https://velog.io/@2taeyoon' target='_blank' rel='noopener noreferrer' onClick={hamBtnHandler} className={headerClass} onMouseMove={animateCursor} onMouseEnter={handleCursorEnter} onMouseLeave={handleCursorLeave}>
+                        <a href='https://www.2taeyoon.com/' target='_blank' rel='noopener noreferrer' onClick={hamBtnHandler} className={headerClass} onMouseMove={animateCursor} onMouseEnter={handleCursorEnter} onMouseLeave={handleCursorLeave}>
                             <span className='animate_cursor'>{text}</span>
                         </a>
                     ) : (
