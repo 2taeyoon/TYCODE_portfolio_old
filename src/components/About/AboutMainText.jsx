@@ -11,7 +11,7 @@ const AboutMainText = ({bubbleClickHandler}) => {
             <div className='main_text_first'>안녕하세요.</div>
             <div className='main_text_second_wrap'>
                 <div className='main_text_second cursor_pointer' onClick={() => {bubbleClickHandler()}} onMouseMove={animateCursor} onMouseEnter={handleCursorEnter} onMouseLeave={ handleCursorLeave}>
-                    <span className='animate_cursor'>웹 디자이너</span>
+                    <span className='animate_cursor'>프론트엔드</span>
                 </div>
                 <div>를 꿈꾸는</div>
             </div>
