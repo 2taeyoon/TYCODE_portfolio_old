@@ -63,10 +63,8 @@ TYCODE는 React를 기반으로 한 SPA 포트폴리오 웹사이트입니다.
 
 ## 📷 미리보기
 
-> 프로젝트별 상세 카드, 소개 화면, 코멘트 입력 영역 등
-
-<div style="display: grid; grid-auto-flow: column; grid-auto-columns: 600px; gap: 12px; overflow-x: auto; height: 400px; scroll-snap-type: x mandatory;">
-  <img src="./readme/tycode1.jpg" style="object-fit:cover; scroll-snap-align:start;" />
-  <img src="./readme/tycode2.jpg" style="object-fit:cover; scroll-snap-align:start;" />
-  <img src="./readme/tycode3.jpg" style="object-fit:cover; scroll-snap-align:start;" />
-</div>
+![image1](./readme/tycode1.jpg)
+![image2](./readme/tycode2.jpg)
+![image3](./readme/tycode3.jpg)
+![image4](./readme/tycode4.jpg)
+![image5](./readme/tycode5.jpg)
